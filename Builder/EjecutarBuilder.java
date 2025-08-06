@@ -16,6 +16,9 @@ public class EjecutarBuilder {
         objLector2.parseInput("TABLA");
         objLector2.parseInput("PARRAFO");
 
+        Reader objLector3 = new Reader(objConvPS);
+
+        objLector3.parseInput("TABLA");
         
 
 
